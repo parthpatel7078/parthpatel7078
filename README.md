@@ -1,4 +1,5 @@
 Parth Patel
+
 Data Analyst | Python | SQL | Data Visualization
 
 I am a skilled data analyst with a passion for extracting valuable insights from complex datasets. With expertise in statistical analysis, data modeling, and data visualization, I excel at identifying trends, patterns, and correlations to drive data-driven decision making.
